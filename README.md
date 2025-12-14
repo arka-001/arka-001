@@ -1,99 +1,265 @@
 <div align="center">
 
-<!-- Banner Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=180&section=header&text=Arka%20Maitra&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Header" />
+# 👋 Hello, I'm Arka Maitra
 
-<!-- Profile Image with Animation -->
-<img src="https://avatars.githubusercontent.com/u/173382801?v=4" alt="Arka Maitra" width="200" style="border-radius: 50%; border: 5px solid transparent; background: linear-gradient(45deg, #6366f1, #8b5cf6, #ec4899) border-box; padding: 5px; box-shadow: 0 10px 30px rgba(99, 102, 241, 0.3);"/>
+<img src="https://avatars.githubusercontent.com/u/173382801?v=4" alt="Arka Maitra" width="200" style="border-radius: 50%; border: 4px solid #6366f1; box-shadow: 0 0 30px rgba(99, 102, 241, 0.5); padding: 5px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
 
-<h1>Full-Stack Developer</h1>
+## 🚀 Full-Stack Developer
 
----
-
-## 🔥 Tech Stack
-
-### 💻 **Languages**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,php,java" />
-</div>
-
-### 🎨 **Frontend**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,bootstrap,html,css,sass" />
-</div>
-
-### ⚙️ **Backend**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,firebase,mysql,mongodb,postgresql" />
-</div>
-
-### 🛠️ **DevOps & Tools**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,figma,vscode,postman" />
-</div>
+Crafting digital experiences with modern technologies and clean code.
 
 ---
 
-## 📫 **Connect With Me**
+### 📫 Let's Connect
 
-<div align="center">
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 30px 0;">
+  <a href="mailto:arkamaitra001@gmail.com" style="text-decoration: none;">
+    <div style="width: 60px; height: 60px; border-radius: 50%; background: linear-gradient(135deg, #6366f1, #8b5cf6); display: flex; align-items: center; justify-content: center; box-shadow: 0 4px 15px rgba(99, 102, 241, 0.3); transition: all 0.3s ease;">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" width="25" height="25" style="filter: brightness(0) invert(1);"/>
+    </div>
+  </a>
   
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arkamaitra001@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8670247168)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arka-maitra-a7a321303/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/arka_maitra_001)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arkamaitra)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/arkamaitra001/)
-
+  <a href="https://wa.me/8670247168" style="text-decoration: none;">
+    <div style="width: 60px; height: 60px; border-radius: 50%; background: linear-gradient(135deg, #6366f1, #8b5cf6); display: flex; align-items: center; justify-content: center; box-shadow: 0 4px 15px rgba(99, 102, 241, 0.3); transition: all 0.3s ease;">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/whatsapp.svg" alt="WhatsApp" width="25" height="25" style="filter: brightness(0) invert(1);"/>
+    </div>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/arka-maitra-a7a321303/" style="text-decoration: none;">
+    <div style="width: 60px; height: 60px; border-radius: 50%; background: linear-gradient(135deg, #6366f1, #8b5cf6); display: flex; align-items: center; justify-content: center; box-shadow: 0 4px 15px rgba(99, 102, 241, 0.3); transition: all 0.3s ease;">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="25" height="25" style="filter: brightness(0) invert(1);"/>
+    </div>
+  </a>
+  
+  <a href="https://instagram.com/arka_maitra_001" style="text-decoration: none;">
+    <div style="width: 60px; height: 60px; border-radius: 50%; background: linear-gradient(135deg, #6366f1, #8b5cf6); display: flex; align-items: center; justify-content: center; box-shadow: 0 4px 15px rgba(99, 102, 241, 0.3); transition: all 0.3s ease;">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="Instagram" width="25" height="25" style="filter: brightness(0) invert(1);"/>
+    </div>
+  </a>
 </div>
 
 ---
 
-<!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=120&section=footer&text=Let's%20Build%20Together!&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=65" alt="Footer" />
+## 🛠️ Tech Stack
+
+### 🏷️ Languages
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 25px 0;">
+  <div style="text-align: center;">
+    <div style="width: 70px; height: 70px; border-radius: 50%; background: rgba(99, 102, 241, 0.1); border: 2px solid #6366f1; display: flex; align-items: center; justify-content: center; margin: 0 auto 10px; padding: 15px;">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" alt="JavaScript" width="35" height="35" style="border-radius: 50%;"/>
+    </div>
+    <span style="color: #c9d1d9; font-size: 0.9em;">JavaScript</span>
+  </div>
+  
+  <div style="text-align: center;">
+    <div style="width: 70px; height: 70px; border-radius: 50%; background: rgba(99, 102, 241, 0.1); border: 2px solid #6366f1; display: flex; align-items: center; justify-content: center; margin: 0 auto 10px; padding: 15px;">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" alt="Python" width="35" height="35" style="border-radius: 50%;"/>
+    </div>
+    <span style="color: #c9d1d9; font-size: 0.9em;">Python</span>
+  </div>
+  
+  <div style="text-align: center;">
+    <div style="width: 70px; height: 70px; border-radius: 50%; background: rgba(99, 102, 241, 0.1); border: 2px solid #6366f1; display: flex; align-items: center; justify-content: center; margin: 0 auto 10px; padding: 15px;">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/php.svg" alt="PHP" width="35" height="35" style="border-radius: 50%;"/>
+    </div>
+    <span style="color: #c9d1d9; font-size: 0.9em;">PHP</span>
+  </div>
+</div>
+
+### 🎨 Frontend
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 25px 0;">
+  <div style="text-align: center;">
+    <div style="width: 70px; height: 70px; border-radius: 50%; background: rgba(99, 102, 241, 0.1); border: 2px solid #6366f1; display: flex; align-items: center; justify-content: center; margin: 0 auto 10px; padding: 15px;">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/react.svg" alt="React" width="35" height="35" style="border-radius: 50%;"/>
+    </div>
+    <span style="color: #c9d1d9; font-size: 0.9em;">React</span>
+  </div>
+  
+  <div style="text-align: center;">
+    <div style="width: 70px; height: 70px; border-radius: 50%; background: rgba(99, 102, 241, 0.1); border: 2px solid #6366f1; display: flex; align-items: center; justify-content: center; margin: 0 auto 10px; padding: 15px;">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/nextdotjs.svg" alt="Next.js" width="35" height="35" style="border-radius: 50%;"/>
+    </div>
+    <span style="color: #c9d1d9; font-size: 0.9em;">Next.js</span>
+  </div>
+  
+  <div style="text-align: center;">
+    <div style="width: 70px; height: 70px; border-radius: 50%; background: rgba(99, 102, 241, 0.1); border: 2px solid #6366f1; display: flex; align-items: center; justify-content: center; margin: 0 auto 10px; padding: 15px;">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tailwindcss.svg" alt="Tailwind" width="35" height="35" style="border-radius: 50%;"/>
+    </div>
+    <span style="color: #c9d1d9; font-size: 0.9em;">Tailwind</span>
+  </div>
+  
+  <div style="text-align: center;">
+    <div style="width: 70px; height: 70px; border-radius: 50%; background: rgba(99, 102, 241, 0.1); border: 2px solid #6366f1; display: flex; align-items: center; justify-content: center; margin: 0 auto 10px; padding: 15px;">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/redux.svg" alt="Redux" width="35" height="35" style="border-radius: 50%;"/>
+    </div>
+    <span style="color: #c9d1d9; font-size: 0.9em;">Redux</span>
+  </div>
+  
+  <div style="text-align: center;">
+    <div style="width: 70px; height: 70px; border-radius: 50%; background: rgba(99, 102, 241, 0.1); border: 2px solid #6366f1; display: flex; align-items: center; justify-content: center; margin: 0 auto 10px; padding: 15px;">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/bootstrap.svg" alt="Bootstrap" width="35" height="35" style="border-radius: 50%;"/>
+    </div>
+    <span style="color: #c9d1d9; font-size: 0.9em;">Bootstrap</span>
+  </div>
+</div>
+
+### ⚙️ Backend
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 25px 0;">
+  <div style="text-align: center;">
+    <div style="width: 70px; height: 70px; border-radius: 50%; background: rgba(99, 102, 241, 0.1); border: 2px solid #6366f1; display: flex; align-items: center; justify-content: center; margin: 0 auto 10px; padding: 15px;">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/nodedotjs.svg" alt="Node.js" width="35" height="35" style="border-radius: 50%;"/>
+    </div>
+    <span style="color: #c9d1d9; font-size: 0.9em;">Node.js</span>
+  </div>
+  
+  <div style="text-align: center;">
+    <div style="width: 70px; height: 70px; border-radius: 50%; background: rgba(99, 102, 241, 0.1); border: 2px solid #6366f1; display: flex; align-items: center; justify-content: center; margin: 0 auto 10px; padding: 15px;">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/express.svg" alt="Express" width="35" height="35" style="border-radius: 50%;"/>
+    </div>
+    <span style="color: #c9d1d9; font-size: 0.9em;">Express</span>
+  </div>
+  
+  <div style="text-align: center;">
+    <div style="width: 70px; height: 70px; border-radius: 50%; background: rgba(99, 102, 241, 0.1); border: 2px solid #6366f1; display: flex; align-items: center; justify-content: center; margin: 0 auto 10px; padding: 15px;">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/django.svg" alt="Django" width="35" height="35" style="border-radius: 50%;"/>
+    </div>
+    <span style="color: #c9d1d9; font-size: 0.9em;">Django</span>
+  </div>
+  
+  <div style="text-align: center;">
+    <div style="width: 70px; height: 70px; border-radius: 50%; background: rgba(99, 102, 241, 0.1); border: 2px solid #6366f1; display: flex; align-items: center; justify-content: center; margin: 0 auto 10px; padding: 15px;">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mysql.svg" alt="MySQL" width="35" height="35" style="border-radius: 50%;"/>
+    </div>
+    <span style="color: #c9d1d9; font-size: 0.9em;">MySQL</span>
+  </div>
+  
+  <div style="text-align: center;">
+    <div style="width: 70px; height: 70px; border-radius: 50%; background: rgba(99, 102, 241, 0.1); border: 2px solid #6366f1; display: flex; align-items: center; justify-content: center; margin: 0 auto 10px; padding: 15px;">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/firebase.svg" alt="Firebase" width="35" height="35" style="border-radius: 50%;"/>
+    </div>
+    <span style="color: #c9d1d9; font-size: 0.9em;">Firebase</span>
+  </div>
+</div>
+
+### 🚀 DevOps & Tools
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 25px 0;">
+  <div style="text-align: center;">
+    <div style="width: 70px; height: 70px; border-radius: 50%; background: rgba(99, 102, 241, 0.1); border: 2px solid #6366f1; display: flex; align-items: center; justify-content: center; margin: 0 auto 10px; padding: 15px;">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/docker.svg" alt="Docker" width="35" height="35" style="border-radius: 50%;"/>
+    </div>
+    <span style="color: #c9d1d9; font-size: 0.9em;">Docker</span>
+  </div>
+  
+  <div style="text-align: center;">
+    <div style="width: 70px; height: 70px; border-radius: 50%; background: rgba(99, 102, 241, 0.1); border: 2px solid #6366f1; display: flex; align-items: center; justify-content: center; margin: 0 auto 10px; padding: 15px;">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/kubernetes.svg" alt="Kubernetes" width="35" height="35" style="border-radius: 50%;"/>
+    </div>
+    <span style="color: #c9d1d9; font-size: 0.9em;">Kubernetes</span>
+  </div>
+  
+  <div style="text-align: center;">
+    <div style="width: 70px; height: 70px; border-radius: 50%; background: rgba(99, 102, 241, 0.1); border: 2px solid #6366f1; display: flex; align-items: center; justify-content: center; margin: 0 auto 10px; padding: 15px;">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/amazonaws.svg" alt="AWS" width="35" height="35" style="border-radius: 50%;"/>
+    </div>
+    <span style="color: #c9d1d9; font-size: 0.9em;">AWS</span>
+  </div>
+  
+  <div style="text-align: center;">
+    <div style="width: 70px; height: 70px; border-radius: 50%; background: rgba(99, 102, 241, 0.1); border: 2px solid #6366f1; display: flex; align-items: center; justify-content: center; margin: 0 auto 10px; padding: 15px;">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/git.svg" alt="Git" width="35" height="35" style="border-radius: 50%;"/>
+    </div>
+    <span style="color: #c9d1d9; font-size: 0.9em;">Git</span>
+  </div>
+  
+  <div style="text-align: center;">
+    <div style="width: 70px; height: 70px; border-radius: 50%; background: rgba(99, 102, 241, 0.1); border: 2px solid #6366f1; display: flex; align-items: center; justify-content: center; margin: 0 auto 10px; padding: 15px;">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="35" height="35" style="border-radius: 50%;"/>
+    </div>
+    <span style="color: #c9d1d9; font-size: 0.9em;">GitHub</span>
+  </div>
+  
+  <div style="text-align: center;">
+    <div style="width: 70px; height: 70px; border-radius: 50%; background: rgba(99, 102, 241, 0.1); border: 2px solid #6366f1; display: flex; align-items: center; justify-content: center; margin: 0 auto 10px; padding: 15px;">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/figma.svg" alt="Figma" width="35" height="35" style="border-radius: 50%;"/>
+    </div>
+    <span style="color: #c9d1d9; font-size: 0.9em;">Figma</span>
+  </div>
+</div>
+
+---
+
+<div style="margin-top: 40px; padding: 25px; border-radius: 15px; background: rgba(99, 102, 241, 0.05); border: 1px solid rgba(99, 102, 241, 0.2); backdrop-filter: blur(10px);">
+  <p style="color: #c9d1d9; font-size: 1.1em; margin-bottom: 10px;">✨ Building the future, one line of code at a time</p>
+  <p style="color: #6366f1; font-size: 0.95em; font-weight: 500;">⚡ Open to collaborations and exciting opportunities!</p>
+</div>
 
 </div>
 
-<!-- Minimal CSS -->
 <style>
+  * {
+    box-sizing: border-box;
+  }
+  
   body {
-    background: #0d1117;
+    background-color: #0d1117;
     color: #c9d1d9;
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
     margin: 0;
     padding: 20px;
   }
   
-  h1 {
-    color: #6366f1;
-    margin: 20px 0 10px;
+  a {
+    text-decoration: none;
   }
   
-  h2 {
-    color: #8b5cf6;
-    border-bottom: 2px solid #6366f1;
-    padding-bottom: 10px;
-    display: inline-block;
-    margin: 40px 0 20px;
+  a div:hover {
+    transform: translateY(-5px) !important;
+    box-shadow: 0 8px 25px rgba(99, 102, 241, 0.4) !important;
   }
   
-  img[alt="Arka Maitra"] {
-    animation: fadeIn 1s ease-out;
-  }
-  
-  @keyframes fadeIn {
-    from { opacity: 0; transform: translateY(20px); }
-    to { opacity: 1; transform: translateY(0); }
+  div[style*="border-radius: 50%"]:hover {
+    transform: scale(1.1) !important;
+    transition: all 0.3s ease !important;
   }
   
   @media (max-width: 768px) {
+    .mobile-center {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+    }
+    
     img {
       max-width: 100%;
       height: auto;
     }
     
-    h1 {
-      font-size: 1.8rem;
+    div[style*="width: 70px"] {
+      width: 60px !important;
+      height: 60px !important;
+    }
+    
+    div[style*="width: 60px"] {
+      width: 50px !important;
+      height: 50px !important;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    div[style*="width: 70px"] {
+      width: 50px !important;
+      height: 50px !important;
+    }
+    
+    div[style*="width: 60px"] {
+      width: 45px !important;
+      height: 45px !important;
+    }
+    
+    img[alt="Arka Maitra"] {
+      width: 150px !important;
     }
   }
 </style>
