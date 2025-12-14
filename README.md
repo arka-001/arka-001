@@ -93,9 +93,10 @@ style="border-radius:50%; border:4px solid #6366f1; margin-top:10px;" />
 <a href="https://instagram.com/arka_maitra_001">
 <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="48" style="border-radius:50%;" />
 </a>
-<a href="https://github.com/arkamaitra">
+<a href="https://github.com/arka-001">
 <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="48" style="border-radius:50%;" />
 </a>
+
 </p>
 
 ---
