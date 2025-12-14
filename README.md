@@ -1,86 +1,105 @@
-<p align="center">
-  <img src="https://your-image-link.com/profile.jpg" 
-       width="160" height="160" 
-       style="border-radius:50%;" 
-       alt="Arka Maitra"/>
-</p>
+<div align="center">
 
-<h1 align="center">Hi, I'm Arka Maitra 👋</h1>
+<!-- Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=180&section=header&text=Arka%20Maitra&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
-<p align="center">
-  Full-Stack Developer • Problem Solver • Tech Enthusiast
-</p>
+<!-- Profile -->
+<img src="https://avatars.githubusercontent.com/u/173382801?v=4"
+width="180"
+style="border-radius:50%; border:4px solid #6366f1; margin-top:10px;" />
 
----
-
-## 🚀 About Me
-I am a dedicated full-stack developer with a strong foundation in **web development, backend systems, and database-driven applications**.  
-I enjoy transforming ideas into reliable, scalable software solutions while continuously improving my technical and architectural skills.
-
-Beyond coding, I value deep thinking, philosophy, and lifelong learning, which shape both my personal and professional growth.
+<h2>Full-Stack Developer</h2>
 
 ---
 
-## 🧠 Tech Stack
+## 🔥 Technologies & Tools
 
-### 🖥️ Programming Languages
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" style="border-radius:50%;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" style="border-radius:50%;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" style="border-radius:50%;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" style="border-radius:50%;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" style="border-radius:50%;" />
+### 🏷️ Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js" />
+  <img src="https://skillicons.dev/icons?i=ts" />
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=php" />
+  <img src="https://skillicons.dev/icons?i=java" />
 </p>
 
 ---
 
 ### 🎨 Frontend Development
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" style="border-radius:50%;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" style="border-radius:50%;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" style="border-radius:50%;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" style="border-radius:50%;" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=nextjs" />
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=tailwind" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" />
+  <img src="https://skillicons.dev/icons?i=sass" />
+  <img src="https://skillicons.dev/icons?i=redux" />
 </p>
 
 ---
 
-### 🔧 Backend Development
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" style="border-radius:50%;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" style="border-radius:50%;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" width="50" style="border-radius:50%;" />
+### ⚙️ Backend Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://skillicons.dev/icons?i=express" />
+  <img src="https://skillicons.dev/icons?i=django" />
+  <img src="https://skillicons.dev/icons?i=firebase" />
 </p>
 
 ---
 
-### 🗄️ Database
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" style="border-radius:50%;" />
+### 🗄️ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://skillicons.dev/icons?i=postgres" />
 </p>
 
 ---
 
-### ⚙️ Tools & Platforms
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" style="border-radius:50%;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" style="border-radius:50%;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" style="border-radius:50%;" />
+### 🚀 DevOps & Cloud
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" />
+  <img src="https://skillicons.dev/icons?i=aws" />
 </p>
 
 ---
 
-## 📬 Let's Connect
-<p>
-  <a href="https://www.linkedin.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" style="border-radius:50%;" />
-  </a>
-  <a href="https://github.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" style="border-radius:50%;" />
-  </a>
+### 🛠️ Development Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=figma" />
+  <img src="https://skillicons.dev/icons?i=vscode" />
+  <img src="https://skillicons.dev/icons?i=postman" />
 </p>
 
 ---
+
+## 📫 Connect With Me
 
 <p align="center">
-  <i>“Code with clarity. Build with purpose.”</i> 🚀
+<a href="mailto:arkamaitra001@gmail.com">
+<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="48" style="border-radius:50%;" />
+</a>
+<a href="https://wa.me/8670247168">
+<img src="https://cdn-icons-png.flaticon.com/512/220/220236.png" width="48" style="border-radius:50%;" />
+</a>
+<a href="https://www.linkedin.com/in/arka-maitra-a7a321303/">
+<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="48" style="border-radius:50%;" />
+</a>
+<a href="https://instagram.com/arka_maitra_001">
+<img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="48" style="border-radius:50%;" />
+</a>
+<a href="https://github.com/arkamaitra">
+<img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="48" style="border-radius:50%;" />
+</a>
 </p>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=120&section=footer&text=Let's%20Build%20Together!&fontSize=30&fontColor=ffffff" />
+
+</div>
