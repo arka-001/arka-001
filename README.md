@@ -20,7 +20,6 @@ style="border-radius:50%; border:4px solid #6366f1; margin-top:10px;" />
   <img src="https://skillicons.dev/icons?i=ts" />
   <img src="https://skillicons.dev/icons?i=python" />
   <img src="https://skillicons.dev/icons?i=php" />
-  <img src="https://skillicons.dev/icons?i=java" />
 </p>
 
 ---
